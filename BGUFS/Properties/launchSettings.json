@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGUFS": {
+      "commandName": "Project",
+      "commandLineArgs": "ef2ef"
+    }
+  }
+}

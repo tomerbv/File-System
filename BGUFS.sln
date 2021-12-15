@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGUFS", "BGUFS\BGUFS.csproj", "{AC2F2FDE-7599-470F-B22A-89233885A66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2F2FDE-7599-470F-B22A-89233885A66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2F2FDE-7599-470F-B22A-89233885A66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2F2FDE-7599-470F-B22A-89233885A66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2F2FDE-7599-470F-B22A-89233885A66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AE2F98-C66C-4565-952E-DE19E9BB89F9}
+	EndGlobalSection
+EndGlobal
